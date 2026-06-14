@@ -1,5 +1,8 @@
 # Prediksi Performa Akademik Siswa Menggunakan Regresi Linear
 
+NANDA CHAIRUNNISA 
+TI B
+
 ## 📌 Deskripsi Proyek
 Proyek ini adalah implementasi Machine Learning menggunakan algoritma **Linear Regression** (Regresi Linear) untuk memprediksi Indeks Performa (Performance Index) siswa. 
 
