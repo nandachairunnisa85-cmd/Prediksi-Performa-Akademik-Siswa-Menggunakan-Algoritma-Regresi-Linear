@@ -1,7 +1,7 @@
 # Prediksi Performa Akademik Siswa Menggunakan Regresi Linear
 
 ## 📌 Deskripsi Proyek
-Proyek ini adalah implementasi Machine Learning menggunakan algoritma **Linear Regression** (Regresi Linear) untuk memprediksi Indeks Performa (Performance Index) siswa. Prediksi ini didasarkan pada beberapa faktor akademik dan kebiasaan belajar sehari-hari.
+Proyek ini adalah implementasi Machine Learning menggunakan algoritma **Linear Regression** (Regresi Linear) untuk memprediksi Indeks Performa (Performance Index) siswa. 
 
 ## 📊 Dataset
 Dataset yang digunakan berasal dari https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression , fiturnya sebagai berikut:
